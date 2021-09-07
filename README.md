@@ -21,4 +21,6 @@
 - 💰 Estou procurando vagas de Desenvolvedor
 - 💬 Entre em contato através do email: niguiealmeida@hotmail.com
 - 🐱 Pode me chamar de: Nickolas, Nick ou Niguie
+
+![](https://github.com/nickguie/nickguie/raw/output/github-contribution-grid-snake.svg)
  
