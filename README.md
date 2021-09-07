@@ -22,6 +22,3 @@
 - 💬 Entre em contato através do email: niguiealmeida@hotmail.com
 - 🐱 Pode me chamar de: Nickolas, Nick ou Niguie
  
-<div>
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</div>   
