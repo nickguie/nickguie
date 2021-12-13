@@ -18,7 +18,7 @@
 
 ##
 
-- 🔨 Atualmente sou estagiário de TI
+- 🔨 Atualmente sou estagiário de Desenvolvimento
 - 💡 Estou aperfeiçoando meu conhecimentos sobre Desenvolvimento WEB (Front-End & Back-End)
 - 💰 Estou procurando vagas de Desenvolvedor
 - 💬 Entre em contato através do email: niguiealmeida@hotmail.com
