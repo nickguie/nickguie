@@ -17,8 +17,8 @@
 
 ##
 
-- 🔨 Atualmente sou estagiário de Desenvolvimento
-- 💡 Estou aperfeiçoando meu conhecimentos sobre Desenvolvimento WEB (Front-End & Back-End)
+- 🔨 Atualmente sou Desenvolvedor Front-End
+- 💡 Estou aperfeiçoando meu conhecimentos sobre Desenvolvimento Front-End (Web e Mobile)
 - 💰 Estou procurando vagas de Desenvolvedor
 - 💬 Entre em contato através do email: niguiealmeida@hotmail.com
 - 🐱 Pode me chamar de: Nickolas, Nick ou Niguie
