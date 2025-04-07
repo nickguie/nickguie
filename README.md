@@ -18,7 +18,7 @@
 ##
 
 - 🔨 Trabalho atualmente como Desenvolvedor Front-End (VTEX IO)
-- 💡 Estou aperfeiçoando meu conhecimentos sobre Desenvolvimento Web, Front e Back-End, além de ser entusiasta com desenvolvimento de games
+- 💡 Estou aperfeiçoando meu conhecimentos sobre Desenvolvimento Web, além de ser entusiasta com desenvolvimento de games
 - 💰 Estou a procura de vagas de Desenvolvedor
 - 💬 Entre em contato através do email: niguiealmeida@hotmail.com
 - 🐱 Pode me chamar de: Nickolas, Nick ou Niguie
